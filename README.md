@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @felipeqburian
+- 👋 Olá, seja bem vindo ao meu Perfil!
 
-<!---
 
-Aqui ficará o meu repositório completo tanto Profissional como de Projetos!
+-> Aqui ficará o meu repositório completo tanto Profissional como de Projetos!
 
-Para mais detalhes entre em contato:
+@ Para mais detalhes entre em contato:
 
-felipeqburian@gmail.com
-felipeburian@hotmail.com
+- felipeqburian@gmail.com
+- felipeburian@hotmail.com
 
---->
