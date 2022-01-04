@@ -1,4 +1,4 @@
-- 👋 Olá, seja bem vindo ao meu Perfil!
+👋 Olá, seja bem vindo ao meu Perfil!
 
 
 -> Aqui ficará o meu repositório completo tanto Profissional como de Projetos!
